@@ -1,5 +1,7 @@
 # Typed JSON
 
+[![Pub](https://img.shields.io/pub/v/dio.svg?style=flat-square)](https://pub.dev/packages/typed_json)
+
 A library intended to bring manual JSON serialization to the Dart projects of all scales.
 
 Features:
